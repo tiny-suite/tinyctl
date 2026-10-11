@@ -1,0 +1,7 @@
+name = tinyctl
+summary = control center for the tiny suite
+build = make
+run = ./tinyctl help
+test = ./tinyctl list
+install = make install
+uninstall = make uninstall
